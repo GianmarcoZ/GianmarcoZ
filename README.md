@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GianmarcoZ
 - 👀 I’m interested in WebDev, Music, Blogging, movies
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Currently learning Data Analysis..
 - 📫 How to reach me: gianmarcozampetti94@gmail.com
 
 <!---
